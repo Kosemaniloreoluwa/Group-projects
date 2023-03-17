@@ -12,3 +12,8 @@ The objective of this project was to identify the variables that had direct impa
 1. [Google Playstore_Analysis](https://github.com/Kosemaniloreoluwa/Group-projects/blob/main/%20Google%20PlayStore_Analysis..ipynb)
 
 The aim of the project was to explore the dataset and come up with questions so as to find a relationship, identify patterns and trends within the dataset
+
+### Data Visualisation
+1. [Netflix Data Visualisation]()
+
+The aim of this project was explore the netflix data and creating visualisations using some python libraries such as seaborn and matplotlib
