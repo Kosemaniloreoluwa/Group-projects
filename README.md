@@ -17,3 +17,8 @@ The aim of the project was to explore the dataset and come up with questions so 
 1. [Netflix Data Visualisation](https://github.com/Kosemaniloreoluwa/Group-projects/blob/main/Netflix%20Dataset%20Visualisation.ipynb)
 
 The aim of this project was explore the netflix data and creating visualisations using some python libraries such as seaborn and matplotlib.
+
+### Numpy and Pandas 
+1. [Numpy and Pandas Practice]()
+
+The objective of this project was to explore the various functions in numpy and pandas.
